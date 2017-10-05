@@ -1,0 +1,9 @@
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\BLL\bin\Debug\netstandard1.4\BLL.deps.json
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\BLL\bin\Debug\netstandard1.4\BLL.dll
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\BLL\bin\Debug\netstandard1.4\BLL.pdb
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\BLL\bin\Debug\netstandard1.4\DAL.dll
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\BLL\bin\Debug\netstandard1.4\DAL.pdb
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\BLL\obj\Debug\netstandard1.4\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\BLL\obj\Debug\netstandard1.4\BLL.AssemblyInfo.cs
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\BLL\obj\Debug\netstandard1.4\BLL.dll
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\BLL\obj\Debug\netstandard1.4\BLL.pdb

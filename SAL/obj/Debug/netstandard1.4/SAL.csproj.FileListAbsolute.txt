@@ -1,0 +1,7 @@
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\SAL\bin\Debug\netstandard1.4\SAL.deps.json
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\SAL\bin\Debug\netstandard1.4\SAL.dll
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\SAL\bin\Debug\netstandard1.4\SAL.pdb
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\SAL\obj\Debug\netstandard1.4\SAL.csprojResolveAssemblyReference.cache
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\SAL\obj\Debug\netstandard1.4\SAL.AssemblyInfo.cs
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\SAL\obj\Debug\netstandard1.4\SAL.dll
+C:\Users\Shado\documents\visual studio 2017\Projects\Lab02\SAL\obj\Debug\netstandard1.4\SAL.pdb
